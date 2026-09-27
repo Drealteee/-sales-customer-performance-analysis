@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Category,Unit_Price,Unit_Cost
+P001,Wireless Headset,Accessories,85,42
+P002,Mechanical Keyboard,Accessories,110,58
+P003,USB-C Hub,Accessories,65,31
+P004,24in Monitor,Displays,220,142
+P005,27in Monitor,Displays,310,205
+P006,Laptop Stand,Office,55,24
+P007,Ergonomic Chair,Office,390,245
+P008,Webcam,Accessories,95,49
+P009,Desk Lamp,Office,70,29
+P010,Portable SSD,Storage,145,86
+P011,External HDD,Storage,120,72
+P012,Docking Station,Accessories,180,104
